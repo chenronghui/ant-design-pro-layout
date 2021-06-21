@@ -20,4 +20,6 @@ export default {
     },
   ],
   hash: true,
+  publicPath: '/ant-design-pro-layout/',
+  base: '/ant-design-pro-layout/',
 };
